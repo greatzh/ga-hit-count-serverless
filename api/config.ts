@@ -6,12 +6,12 @@
  * ! Don't put your privateKey inside this file directly!
  */
 export default {
-  viewId: '205703100',
+  viewId: '236194295',
   auth: {
-    projectId: 'ga-hit-count',
+    projectId: 'reliable-sight-302605',
     privateKey: process.env.PRIVATE_KEY,
-    clientEmail: 'blog-hit-count@ga-hit-count.iam.gserviceaccount.com',
+    clientEmail: 'zihol-blog-analytics@reliable-sight-302605.iam.gserviceaccount.com',
   },
-  allFilter: ['/20'],
+  allFilter: ['/post'],
   startDate: '2010-01-01',
 }
